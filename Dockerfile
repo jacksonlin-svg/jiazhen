@@ -1,1 +1,1 @@
-FFROM gcr.io/spinnaker-marketplace/halyard:1.32.0
+FROM gcr.io/spinnaker-marketplace/halyard:1.32.0
